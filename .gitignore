@@ -1,0 +1,13 @@
+# Сборка
+bin/
+out/
+build/
+target/
+*.class
+*.jar
+
+# Служебное
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
